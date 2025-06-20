@@ -1,0 +1,24 @@
+{
+    "routes": [
+        {
+            "src": "/report",
+            "dest": "http://cnf.127315.xyz:8080/report"
+        },
+        {
+            "src": "/json/stats.json",
+            "dest": "http://cnf.127315.xyz:8080/json/stats.json"
+        },
+        {
+            "src": "/detail",
+            "dest": "http://cnf.127315.xyz:8080/detail"
+        },
+        {
+            "src": "/map",
+            "dest": "http://cnf.127315.xyz:8080/map"
+        },
+        {
+            "src": "/i",
+            "dest": "http://cnf.127315.xyz:8080/i"
+        }
+    ]
+}
